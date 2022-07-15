@@ -4,9 +4,9 @@
 
 #### [Paper](https://arxiv.org/abs/2003.09005), [Project Page](https://yassouali.github.io/cct_page/)
 
-This repo contains the official implementation of CVPR 2020 paper: Semi-Supervised Semantic Segmentation with Cross-Consistecy Training, which
+This repo is a modification of CVPR 2020 paper: Semi-Supervised Semantic Segmentation with Cross-Consistecy Training, which
 adapts the traditional consistency training framework of semi-supervised learning for semantic segmentation, with an extension to weak-supervised
-learning and learning on multiple domains.
+learning and learning on multiple domains. That repo can be found here https://github.com/yassouali/CCT
 
 <p align="center"><img src="https://yassouali.github.io/cct_page/files/overview.png" width="450"></p>
 
